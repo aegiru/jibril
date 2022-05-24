@@ -1,0 +1,47 @@
+{
+  "botinfo": {
+    "name": "botinfo",
+    "description": "Returns info about the bot",
+    "usage": "botinfo"
+  },
+  "help": {
+    "name": "help",
+    "description": "Helps you with a command",
+    "usage": "help {command}"
+  }, "lasttry": {
+    "name": "lasttry",
+    "description": "Shows last osu play of specified user",
+    "usage": "lasttry [username]"
+  }, "pics": {
+    "name": "pics",
+    "description": "Returns random image from a random booru based on tags",
+    "usage": "pics [sfw/nsfw] {tag1} {tag2}"
+  }, "play": {
+    "name": "play",
+    "description": "Connects to same voice channel as you and plays song based on youtube search",
+    "usage": "play [youtube url/name of song]"
+  }, "ping": {
+    "name": "ping",
+    "description": "Shows bot's reaction time to commands",
+    "usage": "ping"
+  }, "prefix": {
+    "name": "prefix",
+    "description": "Shows current prefix. You can also change the prefix if you have permissions",
+    "usage": "prefix {new prefix}"
+  }, "purge": {
+    "description": "Deletes specified amount of messages if you have permissions",
+    "usage": "purge [amount]"
+  }, "queue": {
+    "description": "Shows songs queue",
+    "usage": "queue"
+  }, "serverinfo": {
+    "description": "Returns info about server on which the command was sent",
+    "usage": "serverinfo"
+  }, "skip": {
+    "description": "Votes to skip current song",
+    "usage": "skip"
+  }, "weather": {
+    "description": "Returns info about weather in specified city",
+    "usage": "weather [city] [C/F]"
+  }
+  }

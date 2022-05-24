@@ -1,0 +1,101 @@
+{
+  "english": {
+    "8ball": {
+      "noargs": ", you need to ask the 8 Ball something."
+    },
+    "anime": {
+      "searching": "Searching for ${args.join(' ')}...",
+      "title": "Results for ${args.join(' ')}"
+    },
+    "avatar": {
+
+    },
+    "ban": {
+
+    },
+    "botinfo": {
+
+    },
+    "createrolemessage": {
+
+    },
+    "currency": {
+
+    },
+    "eval": {
+
+    },
+    "help": {
+
+    },
+    "kick": {
+
+    },
+    "lasttry": {
+
+    },
+    "load": {
+
+    },
+    "manga": {
+
+    },
+    "pics": {
+
+    },
+    "ping": {
+
+    },
+    "play": {
+
+    },
+    "poll": {
+
+    },
+    "prefix": {
+
+    },
+    "purge": {
+
+    },
+    "queue": {
+
+    },
+    "reddit": {
+
+    },
+    "reload": {
+
+    },
+    "roll": {
+
+    },
+    "serverinfo": {
+
+    },
+    "skip": {
+
+    },
+    "tokana": {
+
+    },
+    "toromaji": {
+
+    },
+    "unload": {
+
+    },
+    "urban": {
+
+    },
+    "vote": {
+
+    },
+    "weather": {
+
+    }
+  },
+  "polish": {
+
+  }
+}
